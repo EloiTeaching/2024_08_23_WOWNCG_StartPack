@@ -1,0 +1,21 @@
+
+{                                                                                
+  "name": "be.elab.spwowncg",                              
+  "displayName": "Start Pack of Wow Nice Cube Games",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package refers to all needed package to create the project Wow Nice Cube Games",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree"},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiTeaching/2024_08_23_WOWNCG_FlappyCube.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
