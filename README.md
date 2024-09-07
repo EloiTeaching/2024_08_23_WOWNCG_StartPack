@@ -27,3 +27,4 @@ Copy past to create project:
     "be.elab.spwowncg": "https://github.com/EloiTeaching/2024_08_23_WOWNCG_StartPack.git",
     "be.elab.survivalgametime": "https://github.com/EloiTeaching/2024_08_23_WOWNCG_SurvivalGameTime.git",
 ```
+![AchitectureQuarantineConcept](https://github.com/user-attachments/assets/2aa7a8e4-74c6-4098-9c9b-da29939775a8)
